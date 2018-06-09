@@ -1,0 +1,16 @@
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Contribution.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Role.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/ValueList.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/LogEventType.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Value.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Log.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/BasicEntity.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Family.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/FamilyMember.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/jpa/config/PersistenceConfig.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/BatchType.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Fund.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/ContributionBatch.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/jpa/repository/LogRepository.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Address.java
+/dev-projects/church-finances/church-giving/church-giving-jpa/src/main/java/com/he/giving/model/Member.java
